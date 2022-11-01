@@ -11,3 +11,6 @@
 - README-이지수.md : [링크](./README-이지수.md)
   - 이지수의 README 파일로 이동
 - README-오아영.md [link](https://github.com/aong13/github-pratice/blob/main/README-%EC%98%A4%EC%95%84%EC%98%81.md)
+
+- README-이채원.md : [링크](./README-이채원.md)
+  - 이채원의 README 파일로 이동합니다
