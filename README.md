@@ -10,4 +10,4 @@
 - README-이종훈.md -> [이동](https://github.com/TEAMLAB-Lecture/github-pratice/blob/6d8527f262c72cb25f74a071b13f7941e41e11ee/README-%EC%9D%B4%EC%A2%85%ED%9B%88.md)
 - README-이지수.md : [링크](./README-이지수.md)
   - 이지수의 README 파일로 이동
--README-오아영.md [link](https://github.com/aong13/github-pratice/blob/main/README-%EC%98%A4%EC%95%84%EC%98%81.md)
+- README-오아영.md [link](https://github.com/aong13/github-pratice/blob/main/README-%EC%98%A4%EC%95%84%EC%98%81.md)
